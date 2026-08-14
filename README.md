@@ -19,8 +19,13 @@ Developed a full-stack **AI-powered Resume Analyzer & Career Assistant** using t
 ## Technology Stack
 
 **Frontend:** React.js, JavaScript, HTML, CSS
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB
+
 **Authentication:** JWT, Cookies
+
 **AI:** Google Gemini API
+
 **Architecture:** RESTful APIs, MERN Stack
